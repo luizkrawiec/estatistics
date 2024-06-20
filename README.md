@@ -6,19 +6,17 @@ Overview
 In this repository, you will find a collection of notes, code examples, and exercises related to various statistical topics. These materials are aimed at building a solid foundation in statistics, suitable for beginners and those looking to refresh their knowledge.
 Topics Covered
 
-    Descriptive Statistics: Understanding data through measures of central tendency (mean, median, mode) and dispersion (range, variance, standard deviation).
-    Probability Theory: Basics of probability, including probability distributions, conditional probability, and Bayes' theorem.
-    Inferential Statistics: Concepts of hypothesis testing, confidence intervals, and p-values.
-    Regression Analysis: Introduction to simple linear regression, multiple regression, and correlation analysis.
-    Statistical Software: Using tools like R, Python, and Excel for statistical analysis.
+Descriptive Statistics: Understanding data through measures of central tendency (mean, median, mode) and dispersion (range, variance, standard deviation). Probability Theory: Basics of probability, including probability distributions, conditional probability, and Bayes' theorem. Inferential Statistics: Concepts of hypothesis testing, confidence intervals, and p-values.
+Regression Analysis: Introduction to simple linear regression, multiple regression, and correlation analysis.
+Statistical Software: Using tools like R, Python, and Excel for statistical analysis.
 
 Structure
 
 The repository is organized into folders for each major topic, containing:
 
-    Notes: Detailed explanations and theoretical backgrounds.
-    Examples: Practical code examples in Python and R.
-    Exercises: Problems and solutions to reinforce learning.
+Notes: Detailed explanations and theoretical backgrounds.
+Examples: Practical code examples in Python and R.
+Exercises: Problems and solutions to reinforce learning.
 
 
 Contributing
