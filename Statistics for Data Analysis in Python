@@ -1,0 +1,21 @@
+Statistics is the science dedicated to collecting, organizing, analyzing, and interpreting data to make informed decisions. Its applications are vast, covering areas such as Artificial Intelligence (Machine Learning and Deep Learning), Data Science, Economics and Administration, Engineering, Education, Biomedicine, and Scientific Research.
+
+There are three main types of statistics:
+
+    Descriptive Statistics: Focuses on describing and summarizing data.
+        Types of Variables
+        Population and Sampling
+        Measures of Central Tendency: Mean, Median, Mode, and Quartiles
+        Measures of Dispersion: Range, Variance, Standard Deviation, and Coefficient of Variation
+        Skewness
+
+    Probability Statistics: Involves the study of probabilities and their distributions.
+        Concepts of probabilities: Sample space, events, and types of probabilities
+        Discrete and Continuous Probability Distributions: Binomial, Poisson, Exponential, and Normal
+
+    Inferential Statistics: Used to make predictions or inferences about a population based on a sample of data.
+        Estimation: Parameter estimation and confidence intervals
+        Hypothesis Testing: Parametric and non-parametric tests
+        Correlation and Linear Regression
+
+Various tools can be used to perform statistical analyses, such as Python, R Language, SPSS, SAS, Minitab, Excel, Microsoft Power BI or Tableau, Stata, Matlab, and Emblem.
