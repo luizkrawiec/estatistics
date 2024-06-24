@@ -1,0 +1,20 @@
+Frequency Distribution
+
+A frequency distribution is a way of organizing data into mutually exclusive categories, displaying the number of observations in each category. It is widely used in statistics to summarize large datasets in an understandable manner. Frequency distributions can be represented in various forms, including tables, bar charts, histograms, and frequency polygons.
+Frequency Table
+
+The frequency table is the most common way to present a frequency distribution. It lists each category or class of data along with the number of occurrences in each. Additionally, it can include relative frequencies (the proportion of observations in each category relative to the total) and cumulative frequencies (the sum of the frequencies of all previous categories).
+Histogram
+
+A histogram is a type of bar chart that represents the frequency distribution of continuous data. The bars are adjacent to each other, indicating that the data are continuous, and each bar represents the frequency of a class of values.
+Bar Chart
+
+Unlike the histogram, a bar chart is used for categorical data. Each bar represents a different category, and the height of the bar indicates the frequency or count of observations in that category.
+Frequency Polygon
+
+A frequency polygon is a line graph that connects points corresponding to the frequencies of the classes. It is useful for comparing different frequency distributions and for visualizing the shape of the distribution.
+Importance
+
+Frequency distribution is fundamental to data analysis because it provides an overview of the shape and spread of the data. It helps identify trends, patterns, and possible anomalies within the dataset. Moreover, it is a crucial step in preparing data for more complex statistical analyses.
+
+In summary, frequency distribution is an essential tool in statistics that facilitates the understanding and interpretation of large amounts of data.
