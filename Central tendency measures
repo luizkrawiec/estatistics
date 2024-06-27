@@ -1,0 +1,26 @@
+Central tendency measures are values that represent the center of a dataset, providing a general idea of where the data is concentrated. The three most common measures are the mean, median, and mode.
+
+    Mean:
+    The mean is the value obtained by summing all the elements of a dataset and dividing by the total number of elements. It is a widely used measure because it is easy to calculate and interpret. However, the mean can be affected by extreme values (outliers), which can distort the perception of the data's center.
+
+    Formula:
+    Mean=∑i=1nxin
+    Mean=n∑i=1n​xi​​
+
+    where xixi​ are the data values and nn is the total number of observations.
+
+    Median:
+    The median is the value that separates an ordered dataset into two equal parts. If the number of observations is odd, the median is the middle value. If it is even, the median is the average of the two central values. The median is resistant to outliers, making it a good choice when the data contains extreme values.
+
+    How to find the median:
+        Order the data.
+        If nn is odd, the median is the value at position n+122n+1​.
+        If nn is even, the median is the average of the values at positions n22n​ and n2+12n​+1.
+
+    Mode:
+    The mode is the value that appears most frequently in a dataset. A dataset can have more than one mode (bimodal, trimodal, etc.) or no mode if all values are distinct. The mode is particularly useful for categorical data, where we want to know which category is the most common.
+
+    Example:
+        In the dataset {1, 2, 2, 3, 4}, the mode is 2, as it is the value that repeats the most.
+
+Each of these measures has its own advantages and disadvantages, and the choice of which to use depends on the context and the characteristics of the dataset. In many cases, it is useful to calculate all three measures to gain a more complete understanding of the data distribution.
