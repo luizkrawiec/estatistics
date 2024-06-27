@@ -1,0 +1,52 @@
+Dispersion and position measures are used to describe the variability and distribution of a dataset. While central tendency measures indicate where the data is concentrated, dispersion measures show the degree of variation around this central tendency. Position measures, on the other hand, help identify the location of specific values within the dataset.
+Dispersion Measures
+
+    Range:
+    The range is the difference between the highest and lowest values in a dataset. It is the simplest measure of dispersion but can be heavily influenced by outliers.
+
+    Formula:
+    Range=Maximum value−Minimum value
+    Range=Maximum value−Minimum value
+
+    Standard Deviation:
+    The standard deviation indicates how much the values in a dataset deviate, on average, from the mean of the dataset. A high standard deviation indicates that the data points are spread out over a wider range of values, while a low standard deviation indicates that they are closer to the mean.
+
+    Formula:
+    Standard Deviation(σ)=∑i=1n(xi−μ)2n
+    Standard Deviation(σ)=n∑i=1n​(xi​−μ)2​
+
+    ​
+
+    where xixi​ are the data values, μμ is the mean, and nn is the total number of observations.
+
+    Variance:
+    Variance is the mean of the squared deviations from the mean. It is the square of the standard deviation and provides a measure of data dispersion in squared units.
+
+    Formula:
+    Variance(σ2)=∑i=1n(xi−μ)2n
+    Variance(σ2)=n∑i=1n​(xi​−μ)2​
+
+    Coefficient of Variation (CV):
+    The coefficient of variation is the ratio of the standard deviation to the mean, expressed as a percentage. It allows for the comparison of the dispersion of datasets with different units or means.
+
+    Formula:
+    CV=(σμ)×100%
+    CV=(μσ​)×100%
+
+Position Measures
+
+    Quartiles:
+    Quartiles divide an ordered dataset into four equal parts. The first quartile (Q1) is the value below which 25% of the data falls, the second quartile (Q2) is the median, and the third quartile (Q3) is the value below which 75% of the data falls.
+        Q1: 25th percentile
+        Q2: 50th percentile (median)
+        Q3: 75th percentile
+
+    Percentiles:
+    Percentiles divide an ordered dataset into 100 equal parts. The k-th percentile is the value below which k% of the data falls. For example, the 90th percentile is the value below which 90% of the data falls.
+
+    Deciles:
+    Deciles divide an ordered dataset into ten equal parts. The first decile (D1) is the value below which 10% of the data falls, the second decile (D2) is the value below which 20% of the data falls, and so on up to the tenth decile (D10), which is the value below which 100% of the data falls.
+
+Application of the Measures
+
+These measures are crucial for statistical analysis as they help to understand not only the central position of the data but also how the data is distributed around this position. While dispersion measures provide an idea about the variability of the data, position measures allow locating specific values and comparing them across different datasets. Together, these measures offer a more complete and detailed view of the data's nature, facilitating informed decision-making in various fields such as economics, healthcare, social sciences, and business.
